@@ -43,6 +43,7 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/yourusername/react-google-maps-autofill.git
 
+---
 
 ### 2. Navigate into the project folder
 ```bash
