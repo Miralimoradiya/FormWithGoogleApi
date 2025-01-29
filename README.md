@@ -45,3 +45,60 @@ git clone https://github.com/yourusername/react-google-maps-autofill.git
 cd react-google-maps-autofill
 npm install
 npm start
+
+## 🖥️ How to Use
+
+### 1. **Enter a Location:**
+In the input field labeled "Location," begin typing an address. Google Places Autocomplete will suggest possible addresses.
+
+### 2. **Select a Place:**
+Once you select an address from the suggestions, the form fields (name, street address, city, state, zip code) will be automatically filled.
+
+### 3. **View Location on Map:**
+A Google Map will display below the form with a marker indicating the selected location. The map will update in real-time as you select a new place.
+
+### 4. **Edit Information:**
+You can manually edit any of the fields (name, street address, city, state, zip code). The changes will be reflected in the form state.
+
+---
+
+## ✨ Features
+
+- **Google Places Autocomplete**: The input field suggests possible addresses as you type.
+- **Real-time Map Updates**: A Google Map updates with a marker at the selected location.
+- **Automatic Form Population**: Address details are auto-filled (name, street address, city, state, zip code).
+- **Responsive Layout**: The app adapts to various screen sizes using TailwindCSS.
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome! If you'd like to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to your branch (`git push origin feature-name`).
+6. Open a Pull Request to the main repository.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+
+## 💖 Acknowledgements
+
+- **Google Maps JavaScript API**: For providing the Autocomplete and Map features.
+- **ReactJS**: For building the UI.
+- **TailwindCSS**: For styling the application.
+
+---
+
+## 📬 Contact
+
+For any questions or feedback, feel free to reach out to:  
+**your-email@example.com**
