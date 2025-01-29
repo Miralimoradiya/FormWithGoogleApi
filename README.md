@@ -13,12 +13,14 @@ This is a React-based project that integrates the Google Maps API to automatical
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 ---
 
 ## :pencil2: **Description**
 
-This project provides an interface where users can enter a location, which triggers the Google Places Autocomplete API. The API will suggest possible addresses, and once the user selects an address, the corresponding location details (name, street, city, state, zip code) are populated automatically. 
+This project provides an interface where users can enter a location, which triggers the Google Places Autocomplete API. The API will suggest possible addresses, and once the user selects an address, the corresponding location details (name, street address, city, state, zip code) are populated automatically. 
 
 It also includes a Google Map that updates in real time with a marker reflecting the chosen location. This app can be particularly useful for location-based services, such as delivery forms or location inputs in apps.
 
@@ -40,3 +42,8 @@ Follow these steps to set up the project locally:
 
 ```bash
 git clone https://github.com/yourusername/react-google-maps-autofill.git
+
+
+### 2. Navigate into the project folder
+```bash
+cd react-google-maps-autofill
