@@ -2,6 +2,12 @@
 
 A React-based project that integrates the Google Maps API to autofill address fields based on user input. Using Google Places Autocomplete, the app automatically populates fields like name, street address, city, state, and zip code. Additionally, a real-time Google Map displays with a marker at the selected location.
 
+
+## Live Demo
+
+The website is live on Netlify. Check it out here:
+
+[Live Demo](https://googleapiform-miralimoradiya.netlify.app/)
 ---
 
 ## 📑 Table of Contents
