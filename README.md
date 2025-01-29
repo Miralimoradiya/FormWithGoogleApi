@@ -38,7 +38,7 @@ It also includes a Google Map that updates in real time with a marker reflecting
 
 Follow these steps to set up the project locally:
 
-### 1. Clone the repository
+## 1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/react-google-maps-autofill.git
