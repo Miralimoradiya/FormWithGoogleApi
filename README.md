@@ -85,25 +85,6 @@ You can manually edit any of the fields (name, street address, city, state, zip 
 
 ---
 
-## 🤝 Contributing
-
-Contributions are always welcome! If you'd like to contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to your branch (`git push origin feature-name`).
-6. Open a Pull Request to the main repository.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 ## 💖 Acknowledgements
 
 - **Google Maps JavaScript API**: For providing the Autocomplete and Map features.
@@ -115,8 +96,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## 📬 Contact
 
 For any questions or feedback, feel free to reach out to:  
-**your-email@example.com** 
-
-keep changes in this code to look better
-
+**miralimoradiya@gmail.com** 
 
